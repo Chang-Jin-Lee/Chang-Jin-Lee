@@ -2,3 +2,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Jin-Lee&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Chang-Jin-Lee&theme=gruvbox&row=1&column=5)
+
+
+<img src="https://count.getloli.com/@Changjin?name=Changjin&theme=moebooru" alt="Followers" />
