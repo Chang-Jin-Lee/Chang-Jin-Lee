@@ -12,6 +12,14 @@
 <table>
   <tr>
     <td align="center">
+      <a href="https://apps.apple.com/kr/app/codexstats/id6776311926?mt=12
+CodexStats">
+        <img src="https://github.com/user-attachments/assets/6f7d033b-fd58-474e-adb7-f56c7463e3c8" alt="CodexStats" width="220" />
+      </a>
+      <br />
+      <sub><b>CodexStats</b></sub>
+    </td>
+    <td align="center">
       <a href="https://apps.apple.com/kr/app/aliceunrealtools/id6776897419?mt=12">
         <img src="https://github.com/user-attachments/assets/5eb4a79a-d183-4b7c-9526-2ab9f97e2c58" alt="AliceUnrealTools" width="220" />
       </a>
