@@ -52,7 +52,6 @@
   </tr>
 </table>
 
-
 <br/>
 
 ## Epic Games FAB
@@ -93,10 +92,39 @@
 
 <br/>
 
+## Open Source Contributions
 
+외부 오픈소스 프로젝트에 기여하여 메인 브랜치에 반영된 내역입니다.
+
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/getzola/zola/pull/3196">
+<img src="https://opengraph.githubassets.com/1/getzola/zola" alt="Zola" width="220" />
+</a>
+<br />
+<sub><b>Zola</b></sub>
+<br />
+<sub>Vercel 설치 명령 제한 및 바이너리 선택 오류 수정</sub>
+<br />
+<a href="https://github.com/getzola/zola/pull/3196"><sub><b>PR #3196 · Merged</b></sub></a>
+</td>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/AlkaidLab/foundation-sunshine/pull/810">
+<img src="https://opengraph.githubassets.com/1/AlkaidLab/foundation-sunshine" alt="Foundation Sunshine" width="220" />
+</a>
+<br />
+<sub><b>Foundation Sunshine</b></sub>
+<br />
+<sub>빌드 문서의 저장소 주소와 이동 디렉터리 이름 수정</sub>
+<br />
+<a href="https://github.com/AlkaidLab/foundation-sunshine/pull/810"><sub><b>PR #810 · Merged</b></sub></a>
+</td>
+<td align="center" valign="top" width="33%"></td>
+</tr>
+</table>
 
 <br/>
-
 
 ## Windows Apps
 
