@@ -7,196 +7,205 @@
 
 ## macOS Apps
 
-클릭하면 이동합니다.
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <a href="https://apps.apple.com/kr/app/codexstats/id6776311926?mt=12">
-        <img src="https://github.com/user-attachments/assets/6f7d033b-fd58-474e-adb7-f56c7463e3c8" alt="CodexStats" width="220">
-      </a>
-      <br>
-      <sub><b>CodexStats</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://apps.apple.com/kr/app/aliceunrealtools/id6776897419?mt=12">
-        <img src="https://github.com/user-attachments/assets/5eb4a79a-d183-4b7c-9526-2ab9f97e2c58" alt="AliceUnrealTools" width="220">
-      </a>
-      <br>
-      <sub><b>AliceUnrealTools</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://apps.apple.com/kr/app/alicescptools/id6779256566?mt=12">
-        <img src="https://github.com/user-attachments/assets/0c457a1c-cfb0-4789-80cd-a7a09d95a92d" alt="AliceSCPTools" width="220">
-      </a>
-      <br>
-      <sub><b>AliceSCPTools</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <a href="https://apps.apple.com/kr/app/aliceunrealmonitoragent/id6775384881?mt=12">
-        <img src="https://github.com/user-attachments/assets/5c353061-d2f1-4944-b2ea-4167cf4cb3bf" alt="AliceUnrealMonitorAgent" width="220">
-      </a>
-      <br>
-      <sub><b>AliceUnrealMonitorAgent</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://apps.apple.com/kr/app/alicevideotools/id6772552272?mt=12">
-        <img src="https://github.com/user-attachments/assets/35e5b2c8-397c-4bfe-aba5-97e6a49753b0" alt="AliceVideoTools" width="220">
-      </a>
-      <br>
-      <sub><b>AliceVideoTools</b></sub>
-    </td>
-    <td width="33%"></td>
-  </tr>
-</table>
-
-<br/>
-
-## Epic Games FAB
-
-클릭하면 이동합니다.
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.fab.com/listings/b34877d7-51cf-453c-a547-db5597d3b610">
-        <img src="https://github.com/user-attachments/assets/312e4584-be09-4a89-af9f-ab41b13d8bc2" alt="MapForge" width="220" />
-      </a>
-      <br />
-      <sub><b>MapForge</b></sub>
-      <br />
-      <sub>MCP 기반 레벨 생성</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.fab.com/listings/2467ab1b-f714-430f-8b34-4dcf9e95f6ae">
-        <img src="https://github.com/user-attachments/assets/7b125aea-7eee-47d2-b067-ffdab6a20dc1" alt="AssetGraphTool" width="220" />
-      </a>
-      <br />
-      <sub><b>AssetGraphTool</b></sub>
-      <br />
-      <sub>에셋 의존성 시각화</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.fab.com/listings/fd21501f-2e63-4349-970e-bf209bcc392d">
-        <img src="https://github.com/user-attachments/assets/71963396-2585-45de-94b0-d102b0f623e9" alt="AliceUnrealTools" width="220" />
-      </a>
-      <br />
-      <sub><b>AliceUnrealTools</b></sub>
-      <br />
-      <sub>언리얼 프로젝트 관리</sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## Open Source Contributions
-
-외부 오픈소스 프로젝트에 기여하여 메인 브랜치에 반영된 내역입니다.
-
 <table width="100%">
-<tr>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/getzola/zola/pull/3196">
-<img src="https://opengraph.githubassets.com/1/getzola/zola" alt="Zola" width="220" />
-</a>
-<br />
-<sub><b>Zola</b></sub>
-<br />
-<sub>Vercel 설치 명령 제한 및 바이너리 선택 오류 수정</sub>
-<br />
-<a href="https://github.com/getzola/zola/pull/3196"><sub><b>PR #3196 · Merged</b></sub></a>
-</td>
-<td align="center" valign="top" width="33%">
-<a href="https://github.com/AlkaidLab/foundation-sunshine/pull/810">
-<img src="https://opengraph.githubassets.com/1/AlkaidLab/foundation-sunshine" alt="Foundation Sunshine" width="220" />
-</a>
-<br />
-<sub><b>Foundation Sunshine</b></sub>
-<br />
-<sub>빌드 문서의 저장소 주소와 이동 디렉터리 이름 수정</sub>
-<br />
-<a href="https://github.com/AlkaidLab/foundation-sunshine/pull/810"><sub><b>PR #810 · Merged</b></sub></a>
-</td>
-<td align="center" valign="top" width="33%"></td>
-</tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <b>CodexStats</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>Codex 사용량 확인</sub><br/>
+      <sub>작업 기록 정리</sub><br/><br/>
+      <a href="https://apps.apple.com/kr/app/codexstats/id6776311926?mt=12">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>AliceUnrealTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>언리얼 프로젝트</sub><br/>
+      <sub>분석·정리</sub><br/><br/>
+      <a href="https://apps.apple.com/kr/app/aliceunrealtools/id6776897419?mt=12">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>AliceSCPTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>SCP·SFTP·rsync</sub><br/>
+      <sub>전송 작업 설정</sub><br/><br/>
+      <a href="https://apps.apple.com/kr/app/alicescptools/id6779256566?mt=12">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>AliceUnreal</b><br/>
+      <b>MonitorAgent</b><br/>
+      <sub>언리얼 협업 상태</sub><br/>
+      <sub>모니터링</sub><br/><br/>
+      <a href="https://apps.apple.com/kr/app/aliceunrealmonitoragent/id6775384881?mt=12">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <b>AliceVideoTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>동영상 변환</sub><br/>
+      <sub>정리 유틸리티</sub><br/><br/>
+      <a href="https://apps.apple.com/kr/app/alicevideotools/id6772552272?mt=12">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
+  </tr>
 </table>
-
-<br/>
 
 ## Windows Apps
 
-클릭하면 이동합니다.
-
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
+    <td align="center" valign="top" width="25%">
+      <b>AliceUnrealTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>언리얼 프로젝트</sub><br/>
+      <sub>정리·분석·관리</sub><br/><br/>
       <a href="https://apps.microsoft.com/detail/9PH043VGXJFR?hl=ko-kr&gl=KR&ocid=pdpshare">
-        <img src="https://github.com/user-attachments/assets/32e19e96-bf2b-43a4-ae43-3fe7d0f64c43" alt="AliceUnrealTools" width="220" />
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
       </a>
-      <br />
-      <sub><b>AliceUnrealTools</b></sub>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="25%">
+      <b>AliceVideoTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>탐색기 기반</sub><br/>
+      <sub>동영상 변환</sub><br/><br/>
       <a href="https://apps.microsoft.com/detail/9NGXTDMVC78M?hl=ko-kr&gl=KR&ocid=pdpshare">
-        <img src="https://github.com/user-attachments/assets/2115e764-1ca6-4c3b-9cf8-1625b30371bf" alt="AliceVideoTools" width="220" />
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
       </a>
-      <br />
-      <sub><b>AliceVideoTools</b></sub>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="25%">
+      <b>AliceFbxTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>FBX 검사·검수</sub><br/>
+      <sub>자동화</sub><br/><br/>
       <a href="https://apps.microsoft.com/detail/9P7CLBD4Z26D?hl=ko-kr&gl=KR&ocid=pdpshare">
-        <img src="https://github.com/user-attachments/assets/0745b538-77e9-4d5d-94a8-eaaf5cad14b8" alt="AliceFbxTools" width="220" />
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
       </a>
-      <br />
-      <sub><b>AliceFbxTools</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" valign="top" width="25%">
+      <b>AliceJsonTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>JSON·CSV</sub><br/>
+      <sub>열기·편집</sub><br/><br/>
       <a href="https://apps.microsoft.com/detail/9NQ6L193WLNS?hl=ko-kr&gl=KR&ocid=pdpshare">
-        <img src="https://github.com/user-attachments/assets/5c6de414-7594-4c1e-a180-43917813b4d6" alt="AliceJsonTools" width="220" />
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
       </a>
-      <br />
-      <sub><b>AliceJsonTools</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://apps.microsoft.com/detail/9NDHLPZLMTML?hl=ko-kr&gl=KR&ocid=pdpshare">
-        <img src="https://github.com/user-attachments/assets/03566f6f-41b5-4e6d-8d88-5c48d7f2bef7" alt="AliceMate" width="220" />
-      </a>
-      <br />
-      <sub><b>AliceMate</b></sub>
-    </td>
-    <td align="center">
-      <a href="https://apps.microsoft.com/detail/9PNV7VHC40TL?hl=ko-kr&gl=KR&ocid=pdpshare">
-        <img src="https://github.com/user-attachments/assets/2363a395-2f7c-45f7-8d6e-c5ca6e4421e2" alt="AliceTerminalTools" width="220" />
-      </a>
-      <br />
-      <sub><b>AliceTerminalTools</b></sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="top" width="25%">
+      <b>AliceMate</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>VRM 데스크톱</sub><br/>
+      <sub>메이트</sub><br/><br/>
+      <a href="https://apps.microsoft.com/detail/9NDHLPZLMTML?hl=ko-kr&gl=KR&ocid=pdpshare">
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>AliceTerminal</b><br/>
+      <b>Tools</b><br/>
+      <sub>Terminal·PowerShell</sub><br/>
+      <sub>설정 관리</sub><br/><br/>
+      <a href="https://apps.microsoft.com/detail/9PNV7VHC40TL?hl=ko-kr&gl=KR&ocid=pdpshare">
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>AliceSVNTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>Windows SVN</sub><br/>
+      <sub>환경 설정 지원</sub><br/><br/>
       <a href="https://apps.microsoft.com/detail/9NDKZM4QPHT7?hl=ko-kr&gl=KR&ocid=pdpshare">
-        <img src="https://github.com/user-attachments/assets/a52770b3-aaf9-4934-8cdc-c190148d514b" alt="AliceSVNTools" width="220" />
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
       </a>
-      <br />
-      <sub><b>AliceSVNTools</b></sub>
     </td>
-    <td align="center">
+    <td align="center" valign="top" width="25%">
+      <b>AliceSCPTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>SCP·SFTP·rsync</sub><br/>
+      <sub>전송 작업 설정</sub><br/><br/>
       <a href="https://apps.microsoft.com/detail/9NRRZLJ3WHCD?hl=ko-kr&gl=KR&ocid=pdpshare">
-        <img src="https://github.com/user-attachments/assets/bbd99491-69cf-4977-99cb-35b33965c0fc" alt="AliceSCPTools" width="220" />
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
       </a>
-      <br />
-      <sub><b>AliceSCPTools</b></sub>
     </td>
-    <td></td>
   </tr>
 </table>
 
-<br/>
+## Epic Games FAB
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <b>MapForge</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>MCP 기반</sub><br/>
+      <sub>레벨 생성</sub><br/><br/>
+      <a href="https://www.fab.com/listings/b34877d7-51cf-453c-a547-db5597d3b610">
+        <img src="https://img.shields.io/badge/FAB-View%20on%20FAB-111111?style=for-the-badge&logo=epicgames&logoColor=white" alt="View on FAB" height="28" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>AssetGraphTool</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>에셋 의존성</sub><br/>
+      <sub>시각화</sub><br/><br/>
+      <a href="https://www.fab.com/listings/2467ab1b-f714-430f-8b34-4dcf9e95f6ae">
+        <img src="https://img.shields.io/badge/FAB-View%20on%20FAB-111111?style=for-the-badge&logo=epicgames&logoColor=white" alt="View on FAB" height="28" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>AliceUnrealTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>언리얼 프로젝트</sub><br/>
+      <sub>관리</sub><br/><br/>
+      <a href="https://www.fab.com/listings/fd21501f-2e63-4349-970e-bf209bcc392d">
+        <img src="https://img.shields.io/badge/FAB-View%20on%20FAB-111111?style=for-the-badge&logo=epicgames&logoColor=white" alt="View on FAB" height="28" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
+  </tr>
+</table>
+
+## Open Source Contributions
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <b>Zola</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>Vercel 설치 명령</sub><br/>
+      <sub>제한 오류 수정</sub><br/><br/>
+      <a href="https://github.com/getzola/zola/pull/3196">
+        <img src="https://img.shields.io/badge/PR-%233196-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #3196" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>Foundation Sunshine</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>빌드 문서 주소</sub><br/>
+      <sub>및 이름 수정</sub><br/><br/>
+      <a href="https://github.com/AlkaidLab/foundation-sunshine/pull/810">
+        <img src="https://img.shields.io/badge/PR-%23810-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #810" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
+  </tr>
+</table>
 
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=Chang-Jin-Lee&theme=gruvbox&row=1&column=5)-->
 
