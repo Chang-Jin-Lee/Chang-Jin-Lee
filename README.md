@@ -245,7 +245,16 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
+    <td align="center" valign="top" width="25%">
+      <b>CodeReviewGraph</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>JSON 설정 파일</sub><br/>
+      <sub>비ASCII 경로 보존</sub><br/><br/>
+      <a href="https://github.com/tirth8205/code-review-graph/pull/682">
+        <img src="https://img.shields.io/badge/PR-%23682-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #682" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
   </tr>
 </table>
 
