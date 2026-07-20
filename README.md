@@ -202,7 +202,16 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
+    <td align="center" valign="top" width="25%">
+      <b>OpenCodex</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>Storage 진단</sub><br/>
+      <sub>대시보드 페이지 추가</sub><br/><br/>
+      <a href="https://github.com/lidge-jun/opencodex/pull/173">
+        <img src="https://img.shields.io/badge/PR-%23173-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #173" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
+    </td>
     <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
   <tr>
@@ -229,10 +238,10 @@
     <td align="center" valign="top" width="25%">
       <b>OpenCodex</b><br/>
       <sub>&nbsp;</sub><br/>
-      <sub>Storage 진단</sub><br/>
-      <sub>대시보드 페이지 추가</sub><br/><br/>
-      <a href="https://github.com/lidge-jun/opencodex/pull/173">
-        <img src="https://img.shields.io/badge/PR-%23173-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #173" height="28" />
+      <sub>WAL SQLite 부작용</sub><br/>
+      <sub>없는 읽기전용 수정</sub><br/><br/>
+      <a href="https://github.com/lidge-jun/opencodex/pull/187">
+        <img src="https://img.shields.io/badge/PR-%23187-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #187" height="28" />
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
