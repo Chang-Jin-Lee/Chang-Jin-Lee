@@ -141,6 +141,44 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <b>AliceSMBTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>SMB 공유 폴더</sub><br/>
+      <sub>파일 복사·전송</sub><br/><br/>
+      <a href="https://apps.microsoft.com/detail/9N0118K3Q32S?hl=ko-kr&gl=KR&ocid=pdpshare">
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>AliceUnityTools</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>Unity 프로젝트</sub><br/>
+      <sub>캐시 정리·분석</sub><br/><br/>
+      <a href="https://apps.microsoft.com/detail/9NG12G859JGR?hl=ko-kr&gl=KR&ocid=pdpshare">
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>CodexStats</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>Codex 사용량 확인</sub><br/>
+      <sub>작업 기록 정리</sub><br/><br/>
+      <a href="https://apps.microsoft.com/detail/9NRRXPZH75P4?hl=ko-kr&gl=KR&ocid=pdpshare">
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>AliceUnreal</b><br/>
+      <b>MonitorAgent</b><br/>
+      <sub>언리얼 협업 상태</sub><br/>
+      <sub>모니터링</sub><br/><br/>
+      <a href="https://apps.microsoft.com/detail/9NM8G5JSMPCW?hl=ko-kr&gl=KR&ocid=pdpshare">
+        <img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Download from Microsoft Store" height="34" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ## Epic Games FAB
