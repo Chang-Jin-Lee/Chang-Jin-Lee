@@ -205,6 +205,39 @@
     <td align="center" valign="top" width="25%">&nbsp;</td>
     <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <b>Anubis</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>쿠키 없음 오류 시</sub><br/>
+      <sub>리다이렉트 순서 수정</sub><br/><br/>
+      <a href="https://github.com/TecharoHQ/anubis/pull/1752">
+        <img src="https://img.shields.io/badge/PR-%231752-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1752" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>Home Assistant</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>SMTP 이미지 첨부</sub><br/>
+      <sub>MIME 서브타입 수정</sub><br/><br/>
+      <a href="https://github.com/home-assistant/core/pull/176774">
+        <img src="https://img.shields.io/badge/PR-%23176774-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #176774" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>OpenCodex</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>Storage 진단</sub><br/>
+      <sub>대시보드 페이지 추가</sub><br/><br/>
+      <a href="https://github.com/lidge-jun/opencodex/pull/173">
+        <img src="https://img.shields.io/badge/PR-%23173-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #173" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
+  </tr>
 </table>
 
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=Chang-Jin-Lee&theme=gruvbox&row=1&column=5)-->
