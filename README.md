@@ -250,7 +250,16 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
+    <td align="center" valign="top" width="25%">
+      <b>OpenCodex</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>WAL SQLite 부작용</sub><br/>
+      <sub>없는 읽기전용 수정</sub><br/><br/>
+      <a href="https://github.com/lidge-jun/opencodex/pull/187">
+        <img src="https://img.shields.io/badge/PR-%23187-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #187" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
+    </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="25%">
@@ -274,22 +283,22 @@
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
     <td align="center" valign="top" width="25%">
-      <b>OpenCodex</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>WAL SQLite 부작용</sub><br/>
-      <sub>없는 읽기전용 수정</sub><br/><br/>
-      <a href="https://github.com/lidge-jun/opencodex/pull/187">
-        <img src="https://img.shields.io/badge/PR-%23187-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #187" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
       <b>CodeReviewGraph</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>JSON 설정 파일</sub><br/>
       <sub>비ASCII 경로 보존</sub><br/><br/>
       <a href="https://github.com/tirth8205/code-review-graph/pull/682">
         <img src="https://img.shields.io/badge/PR-%23682-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #682" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>Orca</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>Link Routing 설정</sub><br/>
+      <sub>i18n 누락 수정</sub><br/><br/>
+      <a href="https://github.com/stablyai/orca/pull/9681">
+        <img src="https://img.shields.io/badge/PR-%239681-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #9681" height="28" />
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
