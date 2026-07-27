@@ -292,16 +292,7 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
-      <b>Orca</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>Link Routing 설정</sub><br/>
-      <sub>i18n 누락 수정</sub><br/><br/>
-      <a href="https://github.com/stablyai/orca/pull/9681">
-        <img src="https://img.shields.io/badge/PR-%239681-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #9681" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
 </table>
 
