@@ -7,9 +7,9 @@
 
 ## iOS Apps
 
-<table width="100%">
+<table align="center" width="25%">
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top">
       <b>アリスなでなで</b><br/>
       <sub>Alice NadeNade</sub><br/>
       <sub>VRM 3D 캐릭터</sub><br/>
@@ -19,9 +19,6 @@
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
       </a>
     </td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
 </table>
 
