@@ -13,7 +13,8 @@
       <b>アリスなでなで</b><br/>
       <sub>Alice NadeNade</sub><br/>
       <sub>VRM 3D 캐릭터</sub><br/>
-      <sub>쓰다듬기·데스크 시계</sub><br/><br/>
+      <sub>쓰다듬기·데스크 시계</sub><br/>
+      <sub>₩3,300</sub><br/><br/>
       <a href="https://apps.apple.com/kr/app/%E3%82%A2%E3%83%AA%E3%82%B9%E3%81%AA%E3%81%A7%E3%81%AA%E3%81%A7/id6784961394">
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
       </a>
