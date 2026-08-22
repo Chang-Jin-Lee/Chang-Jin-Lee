@@ -7,7 +7,7 @@
 
 ## iOS Apps
 
-<table align="center" width="25%">
+<table width="25%">
   <tr>
     <td align="center" valign="top">
       <b>アリスなでなで</b><br/>
