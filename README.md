@@ -277,6 +277,8 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="top" width="25%">
       <b>CodeReviewGraph</b><br/>
       <sub>&nbsp;</sub><br/>
@@ -287,8 +289,6 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="25%">
       <b>Anubis</b><br/>
       <sub>&nbsp;</sub><br/>
