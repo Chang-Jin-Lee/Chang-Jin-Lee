@@ -307,9 +307,18 @@
       <a href="https://github.com/home-assistant/core/pull/176774">
         <img src="https://img.shields.io/badge/PR-%23176774-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #176774" height="28" />
       </a>
+      <img src="https://img.shields.io/badge/Approved-1F6FEB?style=for-the-badge" alt="Approved" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>Unreal Engine</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>glTF 결합 옵션</sub><br/>
+      <sub>업그레이드 경로 복원</sub><br/><br/>
+      <a href="https://github.com/EpicGames/UnrealEngine/pull/15041">
+        <img src="https://img.shields.io/badge/PR-%2315041-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #15041" height="28" />
+      </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
 </table>
 
