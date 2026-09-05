@@ -237,7 +237,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>Zola</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>Vercel 설치 명령</sub><br/>
@@ -247,7 +247,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>Foundation Sunshine</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>빌드 문서 주소</sub><br/>
@@ -257,7 +257,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>OpenCodex</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>Storage 진단</sub><br/>
@@ -267,7 +267,9 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
       <b>OpenCodex</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>WAL SQLite 부작용</sub><br/>
@@ -277,9 +279,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>CodeReviewGraph</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>JSON 설정 파일</sub><br/>
@@ -289,7 +289,19 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
+      <b>Home Assistant</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>SMTP 이미지 첨부</sub><br/>
+      <sub>MIME 서브타입 수정</sub><br/><br/>
+      <a href="https://github.com/home-assistant/core/pull/176774">
+        <img src="https://img.shields.io/badge/PR-%23176774-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #176774" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
       <b>Anubis</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>쿠키 없음 오류 시</sub><br/>
@@ -299,23 +311,23 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
-      <b>Home Assistant</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>SMTP 이미지 첨부</sub><br/>
-      <sub>MIME 서브타입 수정</sub><br/><br/>
-      <a href="https://github.com/home-assistant/core/pull/176774">
-        <img src="https://img.shields.io/badge/PR-%23176774-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #176774" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Approved-1F6FEB?style=for-the-badge" alt="Approved" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>Unreal Engine</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>glTF 결합 옵션</sub><br/>
       <sub>업그레이드 경로 복원</sub><br/><br/>
       <a href="https://github.com/EpicGames/UnrealEngine/pull/15041">
         <img src="https://img.shields.io/badge/PR-%2315041-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #15041" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Orca</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>AppImage CLI 리다이렉트</sub><br/>
+      <sub>환경변수 게이트 제거</sub><br/><br/>
+      <a href="https://github.com/stablyai/orca/pull/13289">
+        <img src="https://img.shields.io/badge/PR-%2313289-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #13289" height="28" />
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
