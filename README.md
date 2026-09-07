@@ -352,6 +352,18 @@
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
     <td align="center" valign="top" width="25%">
+      <b>CodeReviewGraph</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>점 붙은 파이썬 임포트</sub><br/>
+      <sub>엔드포인트 인식 수정</sub><br/><br/>
+      <a href="https://github.com/tirth8205/code-review-graph/pull/960">
+        <img src="https://img.shields.io/badge/PR-%23960-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #960" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
       <b>Anubis</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>쿠키 없음 오류 시</sub><br/>
@@ -361,8 +373,6 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="25%">
       <b>Unreal Engine</b><br/>
       <sub>&nbsp;</sub><br/>
@@ -383,7 +393,6 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
     <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
 </table>
