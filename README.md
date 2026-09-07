@@ -237,7 +237,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <b>Zola</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>Vercel 설치 명령</sub><br/>
@@ -247,7 +247,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <b>Foundation Sunshine</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>빌드 문서 주소</sub><br/>
@@ -257,7 +257,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <b>OpenCodex</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>Storage 진단</sub><br/>
@@ -267,9 +267,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <b>OpenCodex</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>WAL SQLite 부작용</sub><br/>
@@ -279,7 +277,9 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="33%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
       <b>CodeReviewGraph</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>JSON 설정 파일</sub><br/>
@@ -289,7 +289,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <b>Home Assistant</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>SMTP 이미지 첨부</sub><br/>
@@ -299,9 +299,59 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
+    <td align="center" valign="top" width="25%">
+      <b>Home Assistant</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>AlarmDecoder 재접속</sub><br/>
+      <sub>라이브러리 핀 상향</sub><br/><br/>
+      <a href="https://github.com/home-assistant/core/pull/181384">
+        <img src="https://img.shields.io/badge/PR-%23181384-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #181384" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>Assimp</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>glTF morph 메시</sub><br/>
+      <sub>블렌딩 방식 지정</sub><br/><br/>
+      <a href="https://github.com/assimp/assimp/pull/6829">
+        <img src="https://img.shields.io/badge/PR-%236829-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #6829" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
+      <b>Assimp</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>숫자 아닌 배열 원소</sub><br/>
+      <sub>읽기 성공 오보 수정</sub><br/><br/>
+      <a href="https://github.com/assimp/assimp/pull/6830">
+        <img src="https://img.shields.io/badge/PR-%236830-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #6830" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>Assimp</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>애니메이션 보간</sub><br/>
+      <sub>회귀 테스트 추가</sub><br/><br/>
+      <a href="https://github.com/assimp/assimp/pull/6831">
+        <img src="https://img.shields.io/badge/PR-%236831-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #6831" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>CodeReviewGraph</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>stat 불가 경로에</sub><br/>
+      <sub>watch 루프 종료 수정</sub><br/><br/>
+      <a href="https://github.com/tirth8205/code-review-graph/pull/959">
+        <img src="https://img.shields.io/badge/PR-%23959-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #959" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
       <b>Anubis</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>쿠키 없음 오류 시</sub><br/>
@@ -311,7 +361,9 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="33%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
       <b>Unreal Engine</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>glTF 결합 옵션</sub><br/>
@@ -321,7 +373,7 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="25%">
       <b>Orca</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>AppImage CLI 리다이렉트</sub><br/>
@@ -331,6 +383,8 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
 </table>
 
