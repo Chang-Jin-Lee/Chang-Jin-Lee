@@ -386,6 +386,18 @@
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
     <td align="center" valign="top" width="33%">
+      <b>VoiceStudio</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>첫 실행 로그 보존</sub><br/>
+      <sub>화면엔 끝부분만</sub><br/><br/>
+      <a href="https://github.com/debpalash/VoiceStudio/pull/1918">
+        <img src="https://img.shields.io/badge/PR-%231918-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1918" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
       <b>Anubis</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>쿠키 없음 오류 시</sub><br/>
@@ -395,8 +407,6 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="33%">
       <b>Unreal Engine</b><br/>
       <sub>&nbsp;</sub><br/>
@@ -417,7 +427,6 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="33%">&nbsp;</td>
   </tr>
 </table>
 
