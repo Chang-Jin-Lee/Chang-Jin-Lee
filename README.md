@@ -237,7 +237,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>Zola</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>Vercel 설치 명령</sub><br/>
@@ -247,7 +247,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>Foundation Sunshine</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>빌드 문서 주소</sub><br/>
@@ -257,7 +257,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>OpenCodex</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>Storage 진단</sub><br/>
@@ -267,7 +267,9 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
       <b>OpenCodex</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>WAL SQLite 부작용</sub><br/>
@@ -277,9 +279,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>CodeReviewGraph</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>JSON 설정 파일</sub><br/>
@@ -289,7 +289,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>Home Assistant</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>SMTP 이미지 첨부</sub><br/>
@@ -299,7 +299,9 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
       <b>Home Assistant</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>AlarmDecoder 재접속</sub><br/>
@@ -309,7 +311,7 @@
       </a>
       <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>Assimp</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>glTF morph 메시</sub><br/>
@@ -319,9 +321,7 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>Assimp</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>숫자 아닌 배열 원소</sub><br/>
@@ -331,7 +331,9 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
       <b>Assimp</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>애니메이션 보간</sub><br/>
@@ -341,7 +343,7 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>CodeReviewGraph</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>stat 불가 경로에</sub><br/>
@@ -351,7 +353,7 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>CodeReviewGraph</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>점 붙은 파이썬 임포트</sub><br/>
@@ -363,7 +365,27 @@
     </td>
   </tr>
   <tr>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
+      <b>VoiceStudio</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>경로 잘림과</sub><br/>
+      <sub>양방향 텍스트 분리</sub><br/><br/>
+      <a href="https://github.com/debpalash/VoiceStudio/pull/1916">
+        <img src="https://img.shields.io/badge/PR-%231916-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1916" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>VoiceStudio</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>사용 불가 엔진 행</sub><br/>
+      <sub>안내 경로 추가</sub><br/><br/>
+      <a href="https://github.com/debpalash/VoiceStudio/pull/1917">
+        <img src="https://img.shields.io/badge/PR-%231917-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1917" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="33%">
       <b>Anubis</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>쿠키 없음 오류 시</sub><br/>
@@ -373,7 +395,9 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
       <b>Unreal Engine</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>glTF 결합 옵션</sub><br/>
@@ -383,7 +407,7 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
+    <td align="center" valign="top" width="33%">
       <b>Orca</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>AppImage CLI 리다이렉트</sub><br/>
@@ -393,7 +417,7 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
+    <td align="center" valign="top" width="33%">&nbsp;</td>
   </tr>
 </table>
 
