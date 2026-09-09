@@ -467,6 +467,48 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
+    <td align="center" valign="top" width="25%">
+      <b>Khronos glslang</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>--no-link 미정의 함수</sub><br/>
+      <sub>호출 SIGSEGV 수정</sub><br/><br/>
+      <a href="https://github.com/KhronosGroup/glslang/pull/4414">
+        <img src="https://img.shields.io/badge/PR-%234414-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #4414" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>MaterialX</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>mx_geompropvalue_filename</sub><br/>
+      <sub>geomprop 반환</sub><br/><br/>
+      <a href="https://github.com/AcademySoftwareFoundation/MaterialX/pull/3063">
+        <img src="https://img.shields.io/badge/PR-%233063-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #3063" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <b>OpenHands</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>skills 캐시를</sub><br/>
+      <sub>활성 backend로 스코프</sub><br/><br/>
+      <a href="https://github.com/OpenHands/OpenHands/pull/17174">
+        <img src="https://img.shields.io/badge/PR-%2317174-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #17174" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>Orca</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>비대화형 agent 바이너리</sub><br/>
+      <sub>lookup 경로 해석</sub><br/><br/>
+      <a href="https://github.com/stablyai/orca/pull/9009">
+        <img src="https://img.shields.io/badge/PR-%239009-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #9009" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
     <td align="center" valign="top" width="25%">&nbsp;</td>
     <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
