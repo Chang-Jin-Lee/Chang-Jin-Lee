@@ -509,7 +509,16 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
+    <td align="center" valign="top" width="25%">
+      <b>Assimp</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>glTF 익스포터 tick rate</sub><br/>
+      <sub>0 나눗셈 가드</sub><br/><br/>
+      <a href="https://github.com/assimp/assimp/pull/6835">
+        <img src="https://img.shields.io/badge/PR-%236835-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #6835" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
     <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
 </table>
