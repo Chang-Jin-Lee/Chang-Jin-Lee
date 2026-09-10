@@ -561,16 +561,7 @@
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
-    <td align="center" valign="top" width="25%">
-      <b>SPIRV-Tools</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>레이트레이싱 빌트인</sub><br/>
-      <sub>Volatile VUID 검증</sub><br/><br/>
-      <a href="https://github.com/KhronosGroup/SPIRV-Tools/pull/6879">
-        <img src="https://img.shields.io/badge/PR-%236879-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #6879" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
+    <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
 </table>
 
