@@ -371,7 +371,7 @@
       <a href="https://github.com/debpalash/VoiceStudio/pull/1916">
         <img src="https://img.shields.io/badge/PR-%231916-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1916" height="28" />
       </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
     <td align="center" valign="top" width="25%">
       <b>VoiceStudio</b><br/>
@@ -381,7 +381,7 @@
       <a href="https://github.com/debpalash/VoiceStudio/pull/1917">
         <img src="https://img.shields.io/badge/PR-%231917-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1917" height="28" />
       </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
     <td align="center" valign="top" width="25%">
       <b>VoiceStudio</b><br/>
@@ -391,7 +391,7 @@
       <a href="https://github.com/debpalash/VoiceStudio/pull/1918">
         <img src="https://img.shields.io/badge/PR-%231918-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1918" height="28" />
       </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
     <td align="center" valign="top" width="25%">
       <b>VoiceStudio</b><br/>
@@ -401,7 +401,7 @@
       <a href="https://github.com/debpalash/VoiceStudio/pull/1919">
         <img src="https://img.shields.io/badge/PR-%231919-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1919" height="28" />
       </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
   </tr>
   <tr>
@@ -413,7 +413,7 @@
       <a href="https://github.com/debpalash/VoiceStudio/pull/1920">
         <img src="https://img.shields.io/badge/PR-%231920-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1920" height="28" />
       </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
     <td align="center" valign="top" width="25%">
       <b>VoiceStudio</b><br/>
@@ -423,7 +423,7 @@
       <a href="https://github.com/debpalash/VoiceStudio/pull/1924">
         <img src="https://img.shields.io/badge/PR-%231924-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1924" height="28" />
       </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
     <td align="center" valign="top" width="25%">
       <b>VoiceStudio</b><br/>
@@ -433,7 +433,7 @@
       <a href="https://github.com/debpalash/VoiceStudio/pull/1925">
         <img src="https://img.shields.io/badge/PR-%231925-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1925" height="28" />
       </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
     </td>
     <td align="center" valign="top" width="25%">
       <b>Anubis</b><br/>
@@ -516,6 +516,48 @@
       <sub>0 나눗셈 가드</sub><br/><br/>
       <a href="https://github.com/assimp/assimp/pull/6835">
         <img src="https://img.shields.io/badge/PR-%236835-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #6835" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>VoiceStudio</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>캡처 응답의 null 구간 끝을</sub><br/>
+      <sub>반올림 없이 전달</sub><br/><br/>
+      <a href="https://github.com/debpalash/VoiceStudio/pull/1959">
+        <img src="https://img.shields.io/badge/PR-%231959-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1959" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <b>Khronos glslang</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>storage bool 저장 시</sub><br/>
+      <sub>실제 bool만 인코딩</sub><br/><br/>
+      <a href="https://github.com/KhronosGroup/glslang/pull/4415">
+        <img src="https://img.shields.io/badge/PR-%234415-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #4415" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>Khronos glslang</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>행렬 스위즐 미구현 시</sub><br/>
+      <sub>무효 모듈 방지</sub><br/><br/>
+      <a href="https://github.com/KhronosGroup/glslang/pull/4416">
+        <img src="https://img.shields.io/badge/PR-%234416-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #4416" height="28" />
+      </a>
+      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
+    </td>
+    <td align="center" valign="top" width="25%">
+      <b>unsnooze</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>daemon.log 모드 테스트의</sub><br/>
+      <sub>umask 의존 제거</sub><br/><br/>
+      <a href="https://github.com/saaranshM/unsnooze/pull/22">
+        <img src="https://img.shields.io/badge/PR-%2322-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #22" height="28" />
       </a>
       <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
     </td>
