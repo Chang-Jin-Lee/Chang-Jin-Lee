@@ -235,335 +235,48 @@
 
 ## Open Source Contributions
 
-<table width="100%">
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <b>Zola</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>Vercel 설치 명령</sub><br/>
-      <sub>제한 오류 수정</sub><br/><br/>
-      <a href="https://github.com/getzola/zola/pull/3196">
-        <img src="https://img.shields.io/badge/PR-%233196-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #3196" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Foundation Sunshine</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>빌드 문서 주소</sub><br/>
-      <sub>및 이름 수정</sub><br/><br/>
-      <a href="https://github.com/AlkaidLab/foundation-sunshine/pull/810">
-        <img src="https://img.shields.io/badge/PR-%23810-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #810" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>OpenCodex</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>Storage 진단</sub><br/>
-      <sub>대시보드 페이지 추가</sub><br/><br/>
-      <a href="https://github.com/lidge-jun/opencodex/pull/173">
-        <img src="https://img.shields.io/badge/PR-%23173-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #173" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>OpenCodex</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>WAL SQLite 부작용</sub><br/>
-      <sub>없는 읽기전용 수정</sub><br/><br/>
-      <a href="https://github.com/lidge-jun/opencodex/pull/187">
-        <img src="https://img.shields.io/badge/PR-%23187-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #187" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <b>CodeReviewGraph</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>JSON 설정 파일</sub><br/>
-      <sub>비ASCII 경로 보존</sub><br/><br/>
-      <a href="https://github.com/tirth8205/code-review-graph/pull/682">
-        <img src="https://img.shields.io/badge/PR-%23682-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #682" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Home Assistant</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>SMTP 이미지 첨부</sub><br/>
-      <sub>MIME 서브타입 수정</sub><br/><br/>
-      <a href="https://github.com/home-assistant/core/pull/176774">
-        <img src="https://img.shields.io/badge/PR-%23176774-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #176774" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Home Assistant</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>AlarmDecoder 재접속</sub><br/>
-      <sub>라이브러리 핀 상향</sub><br/><br/>
-      <a href="https://github.com/home-assistant/core/pull/181384">
-        <img src="https://img.shields.io/badge/PR-%23181384-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #181384" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Assimp</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>glTF morph 메시</sub><br/>
-      <sub>블렌딩 방식 지정</sub><br/><br/>
-      <a href="https://github.com/assimp/assimp/pull/6829">
-        <img src="https://img.shields.io/badge/PR-%236829-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #6829" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <b>Assimp</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>숫자 아닌 배열 원소</sub><br/>
-      <sub>읽기 성공 오보 수정</sub><br/><br/>
-      <a href="https://github.com/assimp/assimp/pull/6830">
-        <img src="https://img.shields.io/badge/PR-%236830-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #6830" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Assimp</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>애니메이션 보간</sub><br/>
-      <sub>회귀 테스트 추가</sub><br/><br/>
-      <a href="https://github.com/assimp/assimp/pull/6831">
-        <img src="https://img.shields.io/badge/PR-%236831-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #6831" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>CodeReviewGraph</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>stat 불가 경로에</sub><br/>
-      <sub>watch 루프 종료 수정</sub><br/><br/>
-      <a href="https://github.com/tirth8205/code-review-graph/pull/959">
-        <img src="https://img.shields.io/badge/PR-%23959-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #959" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>CodeReviewGraph</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>점 붙은 파이썬 임포트</sub><br/>
-      <sub>엔드포인트 인식 수정</sub><br/><br/>
-      <a href="https://github.com/tirth8205/code-review-graph/pull/960">
-        <img src="https://img.shields.io/badge/PR-%23960-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #960" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <b>VoiceStudio</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>경로 잘림과</sub><br/>
-      <sub>양방향 텍스트 분리</sub><br/><br/>
-      <a href="https://github.com/debpalash/VoiceStudio/pull/1916">
-        <img src="https://img.shields.io/badge/PR-%231916-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1916" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>VoiceStudio</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>사용 불가 엔진 행</sub><br/>
-      <sub>안내 경로 추가</sub><br/><br/>
-      <a href="https://github.com/debpalash/VoiceStudio/pull/1917">
-        <img src="https://img.shields.io/badge/PR-%231917-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1917" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>VoiceStudio</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>첫 실행 로그 보존</sub><br/>
-      <sub>화면엔 끝부분만</sub><br/><br/>
-      <a href="https://github.com/debpalash/VoiceStudio/pull/1918">
-        <img src="https://img.shields.io/badge/PR-%231918-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1918" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>VoiceStudio</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>런치패드 히어로</sub><br/>
-      <sub>압축 대신 스크롤</sub><br/><br/>
-      <a href="https://github.com/debpalash/VoiceStudio/pull/1919">
-        <img src="https://img.shields.io/badge/PR-%231919-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1919" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <b>VoiceStudio</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>백엔드 로그 롤오버</sub><br/>
-      <sub>추적과 백업 정리</sub><br/><br/>
-      <a href="https://github.com/debpalash/VoiceStudio/pull/1920">
-        <img src="https://img.shields.io/badge/PR-%231920-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1920" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>VoiceStudio</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>브라우저 확장 예외</sub><br/>
-      <sub>오류 보고 제외</sub><br/><br/>
-      <a href="https://github.com/debpalash/VoiceStudio/pull/1924">
-        <img src="https://img.shields.io/badge/PR-%231924-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1924" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>VoiceStudio</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>Tauri 탭 Clear가</sub><br/>
-      <sub>stderr 지우던 문제</sub><br/><br/>
-      <a href="https://github.com/debpalash/VoiceStudio/pull/1925">
-        <img src="https://img.shields.io/badge/PR-%231925-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1925" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Anubis</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>쿠키 없음 오류 시</sub><br/>
-      <sub>리다이렉트 순서 수정</sub><br/><br/>
-      <a href="https://github.com/TecharoHQ/anubis/pull/1752">
-        <img src="https://img.shields.io/badge/PR-%231752-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1752" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <b>Unreal Engine</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>glTF 결합 옵션</sub><br/>
-      <sub>업그레이드 경로 복원</sub><br/><br/>
-      <a href="https://github.com/EpicGames/UnrealEngine/pull/15041">
-        <img src="https://img.shields.io/badge/PR-%2315041-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #15041" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Orca</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>AppImage CLI 리다이렉트</sub><br/>
-      <sub>환경변수 게이트 제거</sub><br/><br/>
-      <a href="https://github.com/stablyai/orca/pull/13289">
-        <img src="https://img.shields.io/badge/PR-%2313289-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #13289" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Khronos glslang</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>--no-link 미정의 함수</sub><br/>
-      <sub>호출 SIGSEGV 수정</sub><br/><br/>
-      <a href="https://github.com/KhronosGroup/glslang/pull/4414">
-        <img src="https://img.shields.io/badge/PR-%234414-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #4414" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>MaterialX</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>mx_geompropvalue_filename</sub><br/>
-      <sub>geomprop 반환</sub><br/><br/>
-      <a href="https://github.com/AcademySoftwareFoundation/MaterialX/pull/3063">
-        <img src="https://img.shields.io/badge/PR-%233063-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #3063" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <b>OpenHands</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>skills 캐시를</sub><br/>
-      <sub>활성 backend로 스코프</sub><br/><br/>
-      <a href="https://github.com/OpenHands/OpenHands/pull/17174">
-        <img src="https://img.shields.io/badge/PR-%2317174-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #17174" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Orca</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>비대화형 agent 바이너리</sub><br/>
-      <sub>lookup 경로 해석</sub><br/><br/>
-      <a href="https://github.com/stablyai/orca/pull/9009">
-        <img src="https://img.shields.io/badge/PR-%239009-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #9009" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Assimp</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>glTF 익스포터 tick rate</sub><br/>
-      <sub>0 나눗셈 가드</sub><br/><br/>
-      <a href="https://github.com/assimp/assimp/pull/6835">
-        <img src="https://img.shields.io/badge/PR-%236835-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #6835" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>VoiceStudio</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>캡처 응답의 null 구간 끝을</sub><br/>
-      <sub>반올림 없이 전달</sub><br/><br/>
-      <a href="https://github.com/debpalash/VoiceStudio/pull/1959">
-        <img src="https://img.shields.io/badge/PR-%231959-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #1959" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Merged-8957E5?style=for-the-badge" alt="Merged" height="28" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <b>Khronos glslang</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>storage bool 저장 시</sub><br/>
-      <sub>실제 bool만 인코딩</sub><br/><br/>
-      <a href="https://github.com/KhronosGroup/glslang/pull/4415">
-        <img src="https://img.shields.io/badge/PR-%234415-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #4415" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>Khronos glslang</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>행렬 스위즐 미구현 시</sub><br/>
-      <sub>무효 모듈 방지</sub><br/><br/>
-      <a href="https://github.com/KhronosGroup/glslang/pull/4416">
-        <img src="https://img.shields.io/badge/PR-%234416-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #4416" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>unsnooze</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>daemon.log 모드 테스트의</sub><br/>
-      <sub>umask 의존 제거</sub><br/><br/>
-      <a href="https://github.com/saaranshM/unsnooze/pull/22">
-        <img src="https://img.shields.io/badge/PR-%2322-24292f?style=for-the-badge&logo=github&logoColor=white" alt="PR #22" height="28" />
-      </a>
-      <img src="https://img.shields.io/badge/Open-2DA44E?style=for-the-badge" alt="Open" height="28" />
-    </td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
-  </tr>
-</table>
+14개 프로젝트 · 머지 15건 · 진행 중 16건
+
+### Merged (15)
+
+| 프로젝트 | 내용 | PR |
+|---|---|---|
+| [Zola](https://github.com/getzola/zola) | Vercel 설치 명령 제한 오류 수정 | [#3196](https://github.com/getzola/zola/pull/3196) |
+| [Foundation Sunshine](https://github.com/AlkaidLab/foundation-sunshine) | 빌드 문서 주소 및 이름 수정 | [#810](https://github.com/AlkaidLab/foundation-sunshine/pull/810) |
+| [OpenCodex](https://github.com/lidge-jun/opencodex) | Storage 진단 대시보드 페이지 추가 | [#173](https://github.com/lidge-jun/opencodex/pull/173) |
+| [OpenCodex](https://github.com/lidge-jun/opencodex) | WAL SQLite 부작용 없는 읽기전용 수정 | [#187](https://github.com/lidge-jun/opencodex/pull/187) |
+| [CodeReviewGraph](https://github.com/tirth8205/code-review-graph) | JSON 설정 파일 비ASCII 경로 보존 | [#682](https://github.com/tirth8205/code-review-graph/pull/682) |
+| [Home Assistant](https://github.com/home-assistant/core) | SMTP 이미지 첨부 MIME 서브타입 수정 | [#176774](https://github.com/home-assistant/core/pull/176774) |
+| [Home Assistant](https://github.com/home-assistant/core) | AlarmDecoder 재접속 라이브러리 핀 상향 | [#181384](https://github.com/home-assistant/core/pull/181384) |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 경로 잘림과 양방향 텍스트 분리 | [#1916](https://github.com/debpalash/VoiceStudio/pull/1916) |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 사용 불가 엔진 행 안내 경로 추가 | [#1917](https://github.com/debpalash/VoiceStudio/pull/1917) |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 첫 실행 로그 보존 화면엔 끝부분만 | [#1918](https://github.com/debpalash/VoiceStudio/pull/1918) |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 런치패드 히어로 압축 대신 스크롤 | [#1919](https://github.com/debpalash/VoiceStudio/pull/1919) |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 백엔드 로그 롤오버 추적과 백업 정리 | [#1920](https://github.com/debpalash/VoiceStudio/pull/1920) |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 브라우저 확장 예외 오류 보고 제외 | [#1924](https://github.com/debpalash/VoiceStudio/pull/1924) |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Tauri 탭 Clear가 stderr 지우던 문제 | [#1925](https://github.com/debpalash/VoiceStudio/pull/1925) |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 캡처 응답의 null 구간 끝을 반올림 없이 전달 | [#1959](https://github.com/debpalash/VoiceStudio/pull/1959) |
+
+### Open (16)
+
+| 프로젝트 | 내용 | PR |
+|---|---|---|
+| [CodeReviewGraph](https://github.com/tirth8205/code-review-graph) | stat 불가 경로에 watch 루프 종료 수정 | [#959](https://github.com/tirth8205/code-review-graph/pull/959) |
+| [CodeReviewGraph](https://github.com/tirth8205/code-review-graph) | 점 붙은 파이썬 임포트 엔드포인트 인식 수정 | [#960](https://github.com/tirth8205/code-review-graph/pull/960) |
+| [Assimp](https://github.com/assimp/assimp) | glTF morph 메시 블렌딩 방식 지정 | [#6829](https://github.com/assimp/assimp/pull/6829) |
+| [Assimp](https://github.com/assimp/assimp) | 숫자 아닌 배열 원소 읽기 성공 오보 수정 | [#6830](https://github.com/assimp/assimp/pull/6830) |
+| [Assimp](https://github.com/assimp/assimp) | 애니메이션 보간 회귀 테스트 추가 | [#6831](https://github.com/assimp/assimp/pull/6831) |
+| [Assimp](https://github.com/assimp/assimp) | glTF 익스포터 tick rate 0 나눗셈 가드 | [#6835](https://github.com/assimp/assimp/pull/6835) |
+| [Anubis](https://github.com/TecharoHQ/anubis) | 쿠키 없음 오류 시 리다이렉트 순서 수정 | [#1752](https://github.com/TecharoHQ/anubis/pull/1752) |
+| [Unreal Engine](https://github.com/EpicGames/UnrealEngine) | glTF 결합 옵션 업그레이드 경로 복원 | [#15041](https://github.com/EpicGames/UnrealEngine/pull/15041) |
+| [Orca](https://github.com/stablyai/orca) | AppImage CLI 리다이렉트 환경변수 게이트 제거 | [#13289](https://github.com/stablyai/orca/pull/13289) |
+| [Orca](https://github.com/stablyai/orca) | 비대화형 agent 바이너리 lookup 경로 해석 | [#9009](https://github.com/stablyai/orca/pull/9009) |
+| [Khronos glslang](https://github.com/KhronosGroup/glslang) | --no-link 미정의 함수 호출 SIGSEGV 수정 | [#4414](https://github.com/KhronosGroup/glslang/pull/4414) |
+| [Khronos glslang](https://github.com/KhronosGroup/glslang) | storage bool 저장 시 실제 bool만 인코딩 | [#4415](https://github.com/KhronosGroup/glslang/pull/4415) |
+| [Khronos glslang](https://github.com/KhronosGroup/glslang) | 행렬 스위즐 미구현 시 무효 모듈 방지 | [#4416](https://github.com/KhronosGroup/glslang/pull/4416) |
+| [MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) | mx_geompropvalue_filename geomprop 반환 | [#3063](https://github.com/AcademySoftwareFoundation/MaterialX/pull/3063) |
+| [OpenHands](https://github.com/OpenHands/OpenHands) | skills 캐시를 활성 backend로 스코프 | [#17174](https://github.com/OpenHands/OpenHands/pull/17174) |
+| [unsnooze](https://github.com/saaranshM/unsnooze) | daemon.log 모드 테스트의 umask 의존 제거 | [#22](https://github.com/saaranshM/unsnooze/pull/22) |
 
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=Chang-Jin-Lee&theme=gruvbox&row=1&column=5)-->
 
