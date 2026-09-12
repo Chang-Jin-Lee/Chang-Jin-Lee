@@ -235,7 +235,7 @@
 
 ## Open Source Contributions
 
-15개 프로젝트 · 머지 17건 · 진행 중 15건
+14개 프로젝트 · 머지 17건 · 진행 중 13건
 
 ### Merged (17)
 
@@ -259,7 +259,7 @@
 | [unsnooze](https://github.com/saaranshM/unsnooze) | daemon.log 모드 테스트의 umask 의존 제거 | [#22](https://github.com/saaranshM/unsnooze/pull/22) |
 | [sprite-gen](https://github.com/aldegad/sprite-gen) | --body-height는 목표값이라 짧은 상태도 스케일 | [#28](https://github.com/aldegad/sprite-gen/pull/28) |
 
-### Open (15)
+### Open (13)
 
 | 프로젝트 | 내용 | PR |
 |---|---|---|
@@ -269,17 +269,13 @@
 | [Assimp](https://github.com/assimp/assimp) | 숫자 아닌 배열 원소 읽기 성공 오보 수정 | [#6830](https://github.com/assimp/assimp/pull/6830) |
 | [Assimp](https://github.com/assimp/assimp) | 애니메이션 보간 회귀 테스트 추가 | [#6831](https://github.com/assimp/assimp/pull/6831) |
 | [Assimp](https://github.com/assimp/assimp) | glTF 익스포터 tick rate 0 나눗셈 가드 | [#6835](https://github.com/assimp/assimp/pull/6835) |
-| [Anubis](https://github.com/TecharoHQ/anubis) | 쿠키 없음 오류 시 리다이렉트 순서 수정 | [#1752](https://github.com/TecharoHQ/anubis/pull/1752) |
 | [Unreal Engine](https://github.com/EpicGames/UnrealEngine) | glTF 결합 옵션 업그레이드 경로 복원 | [#15041](https://github.com/EpicGames/UnrealEngine/pull/15041) |
-| [Orca](https://github.com/stablyai/orca) | AppImage CLI 리다이렉트 환경변수 게이트 제거 | [#13289](https://github.com/stablyai/orca/pull/13289) |
 | [Orca](https://github.com/stablyai/orca) | 비대화형 agent 바이너리 lookup 경로 해석 | [#9009](https://github.com/stablyai/orca/pull/9009) |
 | [Khronos glslang](https://github.com/KhronosGroup/glslang) | --no-link 미정의 함수 호출을 컴파일 오류로 | [#4414](https://github.com/KhronosGroup/glslang/pull/4414) |
 | [Khronos glslang](https://github.com/KhronosGroup/glslang) | storage bool 저장 시 실제 bool만 인코딩 | [#4415](https://github.com/KhronosGroup/glslang/pull/4415) |
 | [Khronos glslang](https://github.com/KhronosGroup/glslang) | 행렬 스위즐 미구현 시 무효 모듈 방지 | [#4416](https://github.com/KhronosGroup/glslang/pull/4416) |
 | [MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) | mx_geompropvalue_filename geomprop 반환 | [#3063](https://github.com/AcademySoftwareFoundation/MaterialX/pull/3063) |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | skills 캐시를 활성 backend로 스코프 | [#17174](https://github.com/OpenHands/OpenHands/pull/17174) |
-
-<!--![Trophy](https://github-profile-trophy.vercel.app/?username=Chang-Jin-Lee&theme=gruvbox&row=1&column=5)-->
 
 ## Total
 
