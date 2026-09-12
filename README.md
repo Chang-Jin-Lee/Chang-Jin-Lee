@@ -235,9 +235,9 @@
 
 ## Open Source Contributions
 
-14개 프로젝트 · 머지 15건 · 진행 중 16건
+15개 프로젝트 · 머지 17건 · 진행 중 15건
 
-### Merged (15)
+### Merged (17)
 
 | 프로젝트 | 내용 | PR |
 |---|---|---|
@@ -256,8 +256,10 @@
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 브라우저 확장 예외 오류 보고 제외 | [#1924](https://github.com/debpalash/VoiceStudio/pull/1924) |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Tauri 탭 Clear가 stderr 지우던 문제 | [#1925](https://github.com/debpalash/VoiceStudio/pull/1925) |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 캡처 응답의 null 구간 끝을 반올림 없이 전달 | [#1959](https://github.com/debpalash/VoiceStudio/pull/1959) |
+| [unsnooze](https://github.com/saaranshM/unsnooze) | daemon.log 모드 테스트의 umask 의존 제거 | [#22](https://github.com/saaranshM/unsnooze/pull/22) |
+| [sprite-gen](https://github.com/aldegad/sprite-gen) | --body-height는 목표값이라 짧은 상태도 스케일 | [#28](https://github.com/aldegad/sprite-gen/pull/28) |
 
-### Open (16)
+### Open (15)
 
 | 프로젝트 | 내용 | PR |
 |---|---|---|
@@ -271,12 +273,11 @@
 | [Unreal Engine](https://github.com/EpicGames/UnrealEngine) | glTF 결합 옵션 업그레이드 경로 복원 | [#15041](https://github.com/EpicGames/UnrealEngine/pull/15041) |
 | [Orca](https://github.com/stablyai/orca) | AppImage CLI 리다이렉트 환경변수 게이트 제거 | [#13289](https://github.com/stablyai/orca/pull/13289) |
 | [Orca](https://github.com/stablyai/orca) | 비대화형 agent 바이너리 lookup 경로 해석 | [#9009](https://github.com/stablyai/orca/pull/9009) |
-| [Khronos glslang](https://github.com/KhronosGroup/glslang) | --no-link 미정의 함수 호출 SIGSEGV 수정 | [#4414](https://github.com/KhronosGroup/glslang/pull/4414) |
+| [Khronos glslang](https://github.com/KhronosGroup/glslang) | --no-link 미정의 함수 호출을 컴파일 오류로 | [#4414](https://github.com/KhronosGroup/glslang/pull/4414) |
 | [Khronos glslang](https://github.com/KhronosGroup/glslang) | storage bool 저장 시 실제 bool만 인코딩 | [#4415](https://github.com/KhronosGroup/glslang/pull/4415) |
 | [Khronos glslang](https://github.com/KhronosGroup/glslang) | 행렬 스위즐 미구현 시 무효 모듈 방지 | [#4416](https://github.com/KhronosGroup/glslang/pull/4416) |
 | [MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) | mx_geompropvalue_filename geomprop 반환 | [#3063](https://github.com/AcademySoftwareFoundation/MaterialX/pull/3063) |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | skills 캐시를 활성 backend로 스코프 | [#17174](https://github.com/OpenHands/OpenHands/pull/17174) |
-| [unsnooze](https://github.com/saaranshM/unsnooze) | daemon.log 모드 테스트의 umask 의존 제거 | [#22](https://github.com/saaranshM/unsnooze/pull/22) |
 
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=Chang-Jin-Lee&theme=gruvbox&row=1&column=5)-->
 
