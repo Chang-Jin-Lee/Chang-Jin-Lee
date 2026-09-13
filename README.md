@@ -235,7 +235,7 @@
 
 ## Open Source Contributions
 
-14개 프로젝트 · 머지 17건 · 진행 중 13건
+46개 프로젝트 · 머지 17건 · 진행 중 14건
 
 ### Merged (17)
 
@@ -259,7 +259,7 @@
 | [unsnooze](https://github.com/saaranshM/unsnooze) | daemon.log 모드 테스트의 umask 의존 제거 | [#22](https://github.com/saaranshM/unsnooze/pull/22) |
 | [sprite-gen](https://github.com/aldegad/sprite-gen) | --body-height는 목표값이라 짧은 상태도 스케일 | [#28](https://github.com/aldegad/sprite-gen/pull/28) |
 
-### Open (13)
+### Open (14)
 
 | 프로젝트 | 내용 | PR |
 |---|---|---|
@@ -276,6 +276,7 @@
 | [Khronos glslang](https://github.com/KhronosGroup/glslang) | 행렬 스위즐 미구현 시 무효 모듈 방지 | [#4416](https://github.com/KhronosGroup/glslang/pull/4416) |
 | [MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) | mx_geompropvalue_filename geomprop 반환 | [#3063](https://github.com/AcademySoftwareFoundation/MaterialX/pull/3063) |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | skills 캐시를 활성 backend로 스코프 | [#17174](https://github.com/OpenHands/OpenHands/pull/17174) |
+| [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) | 공개 헤더의 미정의 GCC_VERSION으로 폐기 메시지 유실 | [#355](https://github.com/KhronosGroup/SPIRV-Reflect/pull/355) |
 
 ## Total
 
