@@ -237,7 +237,7 @@
 
 15개 프로젝트 · 머지 20건 · 진행 중 11건
 
-### Merged (17)
+### Merged (20)
 
 | 프로젝트 | 내용 | PR |
 |---|---|---|
@@ -258,11 +258,11 @@
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | 캡처 응답의 null 구간 끝을 반올림 없이 전달 | [#1959](https://github.com/debpalash/VoiceStudio/pull/1959) |
 | [unsnooze](https://github.com/saaranshM/unsnooze) | daemon.log 모드 테스트의 umask 의존 제거 | [#22](https://github.com/saaranshM/unsnooze/pull/22) |
 | [sprite-gen](https://github.com/aldegad/sprite-gen) | --body-height는 목표값이라 짧은 상태도 스케일 | [#28](https://github.com/aldegad/sprite-gen/pull/28) |
-
-### Open (14)
 | [CodeReviewGraph](https://github.com/tirth8205/code-review-graph) | stat 불가 경로에 watch 루프 종료 수정 | [#959](https://github.com/tirth8205/code-review-graph/pull/959) |
 | [CodeReviewGraph](https://github.com/tirth8205/code-review-graph) | 점 붙은 파이썬 임포트 엔드포인트 인식 수정 | [#960](https://github.com/tirth8205/code-review-graph/pull/960) |
 | [Assimp](https://github.com/assimp/assimp) | 애니메이션 보간 회귀 테스트 추가 | [#6831](https://github.com/assimp/assimp/pull/6831) |
+
+### Open (11)
 
 | 프로젝트 | 내용 | PR |
 |---|---|---|
@@ -277,6 +277,7 @@
 | [MaterialX](https://github.com/AcademySoftwareFoundation/MaterialX) | mx_geompropvalue_filename geomprop 반환 | [#3063](https://github.com/AcademySoftwareFoundation/MaterialX/pull/3063) |
 | [OpenHands](https://github.com/OpenHands/OpenHands) | skills 캐시를 활성 backend로 스코프 | [#17174](https://github.com/OpenHands/OpenHands/pull/17174) |
 | [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) | 공개 헤더의 미정의 GCC_VERSION으로 폐기 메시지 유실 | [#355](https://github.com/KhronosGroup/SPIRV-Reflect/pull/355) |
+
 ## Total
 
 <img src="https://count.getloli.com/@Changjin?name=Changjin&theme=moebooru" alt="Followers" />
