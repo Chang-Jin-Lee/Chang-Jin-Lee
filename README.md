@@ -73,7 +73,15 @@
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
       </a>
     </td>
-    <td align="center" valign="top" width="25%">&nbsp;</td>
+    <td align="center" valign="top" width="25%">
+      <b>청소토끼</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>저장공간·메모리 정리</sub><br/>
+      <sub>메뉴바 유틸리티</sub><br/><br/>
+      <a href="https://apps.apple.com/kr/app/%EC%B2%AD%EC%86%8C%ED%86%A0%EB%81%BC/id6798107263?mt=12">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
+      </a>
+    </td>
     <td align="center" valign="top" width="25%">&nbsp;</td>
     <td align="center" valign="top" width="25%">&nbsp;</td>
   </tr>
