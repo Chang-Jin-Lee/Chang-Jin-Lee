@@ -27,10 +27,21 @@
 <table width="100%">
   <tr>
     <td align="center" valign="top" width="25%">
+      <b>청소토끼</b><br/>
+      <sub>&nbsp;</sub><br/>
+      <sub>저장공간·메모리 정리</sub><br/>
+      <sub>메뉴바 유틸리티</sub><br/>
+      <sub><b>₩1,100</b></sub><br/><br/>
+      <a href="https://apps.apple.com/kr/app/%EC%B2%AD%EC%86%8C%ED%86%A0%EB%81%BC/id6798107263?mt=12">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
+      </a>
+    </td>
+    <td align="center" valign="top" width="25%">
       <b>CodexStats</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>Codex 사용량 확인</sub><br/>
-      <sub>작업 기록 정리</sub><br/><br/>
+      <sub>작업 기록 정리</sub><br/>
+      <sub>무료</sub><br/><br/>
       <a href="https://apps.apple.com/kr/app/codexstats/id6776311926?mt=12">
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
       </a>
@@ -39,7 +50,8 @@
       <b>AliceUnrealTools</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>언리얼 프로젝트</sub><br/>
-      <sub>분석·정리</sub><br/><br/>
+      <sub>분석·정리</sub><br/>
+      <sub>무료</sub><br/><br/>
       <a href="https://apps.apple.com/kr/app/aliceunrealtools/id6776897419?mt=12">
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
       </a>
@@ -48,37 +60,31 @@
       <b>AliceSCPTools</b><br/>
       <sub>&nbsp;</sub><br/>
       <sub>SCP·SFTP·rsync</sub><br/>
-      <sub>전송 작업 설정</sub><br/><br/>
+      <sub>전송 작업 설정</sub><br/>
+      <sub>무료</sub><br/><br/>
       <a href="https://apps.apple.com/kr/app/alicescptools/id6779256566?mt=12">
-        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
-      </a>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <b>AliceUnreal</b><br/>
-      <b>MonitorAgent</b><br/>
-      <sub>언리얼 협업 상태</sub><br/>
-      <sub>모니터링</sub><br/><br/>
-      <a href="https://apps.apple.com/kr/app/aliceunrealmonitoragent/id6775384881?mt=12">
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="25%">
-      <b>AliceVideoTools</b><br/>
-      <sub>&nbsp;</sub><br/>
-      <sub>동영상 변환</sub><br/>
-      <sub>정리 유틸리티</sub><br/><br/>
-      <a href="https://apps.apple.com/kr/app/alicevideotools/id6772552272?mt=12">
+      <b>AliceUnreal</b><br/>
+      <b>MonitorAgent</b><br/>
+      <sub>언리얼 협업 상태</sub><br/>
+      <sub>모니터링</sub><br/>
+      <sub>무료</sub><br/><br/>
+      <a href="https://apps.apple.com/kr/app/aliceunrealmonitoragent/id6775384881?mt=12">
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
       </a>
     </td>
     <td align="center" valign="top" width="25%">
-      <b>청소토끼</b><br/>
+      <b>AliceVideoTools</b><br/>
       <sub>&nbsp;</sub><br/>
-      <sub>저장공간·메모리 정리</sub><br/>
-      <sub>메뉴바 유틸리티</sub><br/><br/>
-      <a href="https://apps.apple.com/kr/app/%EC%B2%AD%EC%86%8C%ED%86%A0%EB%81%BC/id6798107263?mt=12">
+      <sub>동영상 변환</sub><br/>
+      <sub>정리 유틸리티</sub><br/>
+      <sub>무료</sub><br/><br/>
+      <a href="https://apps.apple.com/kr/app/alicevideotools/id6772552272?mt=12">
         <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="34" />
       </a>
     </td>
