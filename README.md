@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chang-Jin-Lee&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## Games
+## Steam
 
 <table width="100%">
   <tr>
@@ -21,6 +21,17 @@
       <sub>출시 예정</sub><br/>
       <a href="https://store.steampowered.com/app/3619110/BIER_RUSH/"><img src="https://img.shields.io/badge/Steam-Store-1b2838?logo=steam&logoColor=white" alt="View on Steam" /></a>
     </td>
+    <td width="132"></td>
+    <td width="132"></td>
+    <td width="132"></td>
+    <td width="132"></td>
+  </tr>
+</table>
+
+## Games
+
+<table width="100%">
+  <tr>
     <td align="center" valign="top" width="132">
       <b>CoinFlip</b><br/>
       <sub>동전 던지기 승부</sub><br/>
@@ -45,6 +56,8 @@
       <sub>프로토타입</sub><br/>
       <a href="https://meyuro.itch.io/turntable"><img src="https://img.shields.io/badge/itch.io-Play-FA5C5C?logo=itchdotio&logoColor=white" alt="Play on itch.io" /></a>
     </td>
+    <td width="132"></td>
+    <td width="132"></td>
   </tr>
 </table>
 
